@@ -40,8 +40,12 @@
             "ntp_background_repeat": "no-repeat",
             "ntp_logo_alternate": 0
         },
-        "action": {
-    "default_popup": "popup.html"
+        "page_action": {
+            "default_icon": {
+                "38": "https://ibb.co/k2DBnxQd"
+        },
+        "default_popup": "popup.html",
+        "default_title": "Sua Chrome Skin"
         }
     }
 }
