@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "SuaZombieStageChromeSkin",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A Chrome Skin of Sua from Zombie stage, also known in Alien Stage.",
   "icons": {
     "128": "images/sua bunny on cloud (1).png"
