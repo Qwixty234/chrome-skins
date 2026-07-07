@@ -4,9 +4,7 @@
     "version": "1.0.0",
     "description": "A Chrome Skin of Sua from Zombie stage, also known in Alien Stage.",
     "icons": {
-        "16": "images/icons/icon16.png",
-        "48": "images/icons/icon48.png",
-        "128": "images/icons/icon128.png"
+        "128": "https://ibb.co/KcM7HPm2"
     },
     "author": "Qwixty",
     "theme": {
