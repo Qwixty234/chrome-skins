@@ -39,6 +39,9 @@
             "ntp_background_alignment": "center",
             "ntp_background_repeat": "no-repeat",
             "ntp_logo_alternate": 0
+        },
+        "action": {
+    "default_popup": "popup.html"
         }
     }
 }
