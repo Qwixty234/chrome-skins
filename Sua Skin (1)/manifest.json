@@ -1,10 +1,10 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "SuaZombieStageChromeSkin",
     "version": "1.0.0",
     "description": "A Chrome Skin of Sua from Zombie stage, also known in Alien Stage.",
     "icons": {
-        "128": "Sua Skin (1)/images/sua bunny on cloud (1).png"
+      "128": "Sua Skin (1)/images/sua bunny on cloud (1).png"
     },
     "author": "Qwixty",
     "theme": {
@@ -17,35 +17,35 @@
             "theme_tab_background": "Sua Skin (1)/images/resized-image.png",
             "theme_tab_background_v": "Sua Skin (1)/images/download-1.jpg",
             "theme_toolbar": "Sua Skin (1)/images/blue-hue-flowers-Toolbar.jpg",
-        },
+     },
         "colors": {
-            "bookmark_text": [225, 228, 240],
-            "control_background": [186, 194, 224],
-            "ntp_background": [0, 0, 0],
-            "ntp_header": [0, 0, 0],
-            "ntp_link": [97, 158, 255],
-            "ntp_link_underline": [44, 95, 176],
-            "ntp_text": [225, 228, 240],
-            "tab_background_text": [225, 228, 240],
-            "tab_text": [225, 228, 240],
-        },
+            "bookmark_text":,
+            "control_background":,
+            "ntp_background":,
+            "ntp_header":,
+            "ntp_link":,
+            "ntp_link_underline":,
+            "ntp_text":,
+            "tab_background_text":,
+            "tab_text": [225, 228, 240]
+     },
         "tints": {
             "buttons": [0.5, 0.5, 0.5],
             "frame": [0.5, 0.5, 0.5],
             "frame_inactive": [0.5, 0.5, 0.5],
             "background_tab": [0.5, 0.5, 0.5]
-        },
+    },
         "properties": {
             "ntp_background_alignment": "center",
             "ntp_background_repeat": "no-repeat",
             "ntp_logo_alternate": 0
-        },
-        "page_action": {
-            "default_icon": {
-                "38": "Sua Skin (1)/images/Sua icon (1).png"
+        }
+    },
+    "action": {
+        "default_icon": {
+          "38": "https://ibb.co"
         },
         "default_popup": "popup.html",
         "default_title": "Sua Chrome Skin"
-        }
     }
 }
