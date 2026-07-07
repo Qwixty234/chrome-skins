@@ -19,14 +19,14 @@
       "theme_toolbar": "images/blue-hue-flowers-Toolbar.jpg"
     },
     "colors": {
-      "bookmark_text": [225, 228, 240],
-      "control_background": [186, 194, 224],
-      "ntp_background": [0, 0, 0],
-      "ntp_header": [0, 0, 0],
-      "ntp_link": [97, 158, 255],
-      "ntp_link_underline": [44, 95, 176],
-      "ntp_text": [225, 228, 240],
-      "tab_background_text": [225, 228, 240],
+      "bookmark_text":,
+      "control_background":,
+      "ntp_background":,
+      "ntp_header":,
+      "ntp_link":,
+      "ntp_link_underline":,
+      "ntp_text":,
+      "tab_background_text":,
       "tab_text": [225, 228, 240]
     },
     "tints": {
@@ -40,12 +40,5 @@
       "ntp_background_repeat": "no-repeat",
       "ntp_logo_alternate": 0
     }
-  },
-  "action": {
-    "default_icon": {
-      "38": "images/sua bunny on cloud (1).png"
-    },
-    "default_popup": "popup.html",
-    "default_title": "Sua Chrome Skin"
   }
 }
